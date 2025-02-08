@@ -7,7 +7,7 @@ folder_path = ("C:/Users/"+username+"/Desktop")
 
 desktop = os.listdir(folder_path)
 desktop.remove("desktop.ini")    
-desktop.remove("DESKTOP-ROULETTE.py")
+desktop.remove("DESKTOP-ROULETTE.exe")
 
 random_variable = random.choice(desktop)
 
