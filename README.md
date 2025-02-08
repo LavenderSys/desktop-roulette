@@ -1,2 +1,4 @@
-# desktop-roulette
-A simple python script that picks and launches a random item from your desktop
+# Desktop Roulette
+This simple python script, now packaged into an exe for your convenience, launches something random from your desktop!
+
+![Imgur Image](https://i.imgur.com/mvRdzpF.gif)
